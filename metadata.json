@@ -1,0 +1,5 @@
+{
+  "name": "AmzDiscountTracker",
+  "description": "Professional Amazon product discount tracker and analyzer. Bulk check ASINs for coupons, lightning deals, and price drops.",
+  "requestFramePermissions": []
+}
